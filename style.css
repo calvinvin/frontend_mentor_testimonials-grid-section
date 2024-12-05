@@ -39,7 +39,7 @@ h1.visually-hidden {
     --card-4-bg-color: var(--Very-dark-blackish-blue);
     --card-light-theme-bg-color: var(--White);
 
-    --main-bg-color: var(--neutral-800);
+    --main-bg-color: var(--neutral-500);
     --bg-pattern-quotation-right-offset-desktop: 5rem;
     --bg-pattern-quotation-right-offset-mobile: 1rem;
 
